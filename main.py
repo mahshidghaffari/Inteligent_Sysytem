@@ -1,7 +1,7 @@
 from random import random
 from random import choice
 
-
+# generate random population
 def pop_generator(size):
     pop = []
     for i in range(size):
